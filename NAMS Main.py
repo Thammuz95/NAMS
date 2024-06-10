@@ -1,4 +1,4 @@
-# Joshwa Edsall - OPSC-540 - May 3rd, 2024
+# Thammuz 95 - May 3rd, 2024
 
 # Import necessary functions from the other modules
 from network_utils import backup_configuration, monitor_health, collect_logs, security_audit
